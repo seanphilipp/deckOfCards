@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AllTests" project="cardsTest" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="cardsTest.AllTests" time="0.004">
+    <testsuite name="cardsTest.TestDeck" time="0.002">
+      <testcase name="testCut" classname="cardsTest.TestDeck" time="0.0"/>
+      <testcase name="testDeal" classname="cardsTest.TestDeck" time="0.0"/>
+      <testcase name="testTurnOver" classname="cardsTest.TestDeck" time="0.0"/>
+      <testcase name="testShuffle" classname="cardsTest.TestDeck" time="0.001"/>
+      <testcase name="testSearch" classname="cardsTest.TestDeck" time="0.0"/>
+      <testcase name="testNewOrder" classname="cardsTest.TestDeck" time="0.001"/>
+    </testsuite>
+    <testsuite name="cardsTest.TestFrenchCard" time="0.002">
+      <testcase name="testNaturalOrderUniqueAndAscending" classname="cardsTest.TestFrenchCard" time="0.001"/>
+      <testcase name="testNaturalOrderAscending" classname="cardsTest.TestFrenchCard" time="0.001"/>
+    </testsuite>
+  </testsuite>
+</testrun>
